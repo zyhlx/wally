@@ -47,3 +47,9 @@ Disclaimer
 This is not an official Wallhaven product.
 
 [1]: http://alpha.wallhaven.cc
+
+
+一个简单快速的壁纸应用.
+对于初学者来说可以学到很多东西.
+
+这个应用的架构很好, 使得这个应用易于维护和扩展. 这个应用的目的虽然简单, 但是实现目的的方法很好.
